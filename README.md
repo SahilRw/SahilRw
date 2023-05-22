@@ -1,19 +1,37 @@
-# Hi there, I'm Sahil! 👋
+# <h1>Hello, I'm Sahil</h1> 👋
 
-<!--
-**SahilRw/SahilRw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h3>About Me</h3>
+<p>I am a passionate and self-motivated web developer with a strong focus on front-end development. At just 17 years old, I have acquired knowledge and expertise in HTML, CSS, JavaScript, ReactJS, TailwindCSS, and Git through self-directed learning and practical projects.</p>
 
-Here are some ideas to get 5you started:
+## <h3>Skills</h3>
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- TailwindCSS
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <h3>Projects</h3>
+### <h5>Project 1</h5>: [Project Name]
+Description: [Briefly describe the project and its purpose]
+
+### <h5>Project 2</h5>: [Project Name]
+Description: [Briefly describe the project and its purpose]
+
+### <h5>Project 3</h5>: [Project Name]
+Description: [Briefly describe the project and its purpose]
+
+## <h3>Education</h3>
+- Self-taught web developer with a strong focus on continuous learning and improvement.
+
+## <h3>Contact</h3>
+- Portfolio: [Your Portfolio Link](https://portfolio-sahilrw.vercel.app/)
+- Email: [Your Email Address](mailto:sahilrw05@gmail.com)
+- Twitter: [@_sahil_r](https://twitter.com/_sahil_r)
+
+<p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations</p>
+
+<p>Thank you for visiting my GitHub profile!</p>
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SahilRw&show_icons=true&theme=radical" />
 
