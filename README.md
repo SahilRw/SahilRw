@@ -1,15 +1,23 @@
-# <h1>Hello, I'm Sahil</h1> 👋
+# <h1>Hello, I'm Sahil 👋</h1> 
 
 ## <h3>About Me</h3>
 <p>I am a passionate and self-motivated web developer with a strong focus on front-end development. At just 17 years old, I have acquired knowledge and expertise in HTML, CSS, JavaScript, ReactJS, TailwindCSS, and Git through self-directed learning and practical projects.</p>
 
 ## <h3>Skills</h3>
-- HTML
+<!-- - HTML
 - CSS
 - JavaScript
 - ReactJS
 - TailwindCSS
-- Git
+- Git -->
+
+- <img align='left' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
+- <img align='left' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
+- <img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+- <img align='left' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
+- <img align='left' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
+- <img align='left' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
+
 
 ## <h3>Projects</h3>
 ### <h5>Project 1</h5>: [Project Name]
