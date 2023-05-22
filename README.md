@@ -4,24 +4,17 @@
 <p>I am a passionate and self-motivated web developer with a strong focus on front-end development. At just 17 years old, I have acquired knowledge and expertise in HTML, CSS, JavaScript, ReactJS, TailwindCSS, and Git through self-directed learning and practical projects.</p>
 
 ## <h3>Skills</h3>
-<!-- - HTML
+- HTML
 - CSS
 - JavaScript
 - ReactJS
 - TailwindCSS
-- Git -->
-
-- <img align='left' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
-- <img align='left' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
-- <img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
-- <img align='left' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-- <img align='left' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
-- <img align='left' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
+- Git
 
 
 ## <h3>Projects</h3>
-### <h5>Project 1</h5>: [Project Name]
-Description: [Briefly describe the project and its purpose]
+### <h5>Project 1</h5>: [Dialog-ai](https://dialog-ai.vercel.app/)
+Description: This project is a freelance project that involved recreating a website using React and Tailwind CSS. Throughout the development process, the focus was on enhancing skills related to state management using `useState` in React and working with React components. Importing and displaying images in React files was also a part of the learning experience. Additionally, the project provided an opportunity to practice using Flexbox for creating a responsive website layout. By successfully completing this project, valuable knowledge and hands-on experience were gained in React, Tailwind CSS, state management, componentization, image handling, and responsive design techniques. Explore the website to see the outcome of these efforts.
 
 ### <h5>Project 2</h5>: []
 Description: [Briefly describe the project and its purpose]
@@ -40,19 +33,3 @@ Description: The website is a fully responsive site created using HTML, CSS, and
 <p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations</p>
 
 <p>Thank you for visiting my GitHub profile!</p>
-
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SahilRw&show_icons=true&theme=radical" />
-
-<img align="left" width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilRw&layout=compact" /> -->
-
-<img align='left' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
-
-<img align='left' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
-
-<img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
-
-<img align='left' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-
-<img align='left' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
-
-<img align='left' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
