@@ -18,8 +18,8 @@ Description: [Briefly describe the project and its purpose]
 ### <h5>Project 2</h5>: [Project Name]
 Description: [Briefly describe the project and its purpose]
 
-### <h5>Project 3</h5>: [Project Name]
-Description: [Briefly describe the project and its purpose]
+### <h5>Project 3</h5>: [Intro-section]
+Description: []
 
 ## <h3>Education</h3>
 - Self-taught web developer with a strong focus on continuous learning and improvement.
