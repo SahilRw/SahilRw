@@ -25,8 +25,8 @@ Description: [Briefly describe the project and its purpose]
 - Self-taught web developer with a strong focus on continuous learning and improvement.
 
 ## <h3>Contact</h3>
-- Portfolio: [https://portfolio-sahilrw.vercel.app/]
-- Email: [mailto:sahilrw05@gmail.com]
+- Portfolio: [SahilR-portfolio](https://portfolio-sahilrw.vercel.app/)
+- Email: [@sahilrw05](mailto:sahilrw05@gmail.com)
 - Twitter: [@_sahil_r](https://twitter.com/_sahil_r)
 
 <p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations</p>
