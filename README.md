@@ -16,8 +16,8 @@
 ### <h5>Project 1</h5>: [Dialog-ai](https://dialog-ai.vercel.app/)
 Description: This project is a freelance project that involved recreating a website using React and Tailwind CSS. Throughout the development process, the focus was on enhancing skills related to state management using `useState` in React and working with React components. Importing and displaying images in React files was also a part of the learning experience. Additionally, the project provided an opportunity to practice using Flexbox for creating a responsive website layout. By successfully completing this project, valuable knowledge and hands-on experience were gained in React, Tailwind CSS, state management, componentization, image handling, and responsive design techniques. Explore the website to see the outcome of these efforts.
 
-### <h5>Project 2</h5>: []
-Description: [Briefly describe the project and its purpose]
+### <h5>Project 2</h5>: [Restaurant Menu](https://chimerical-malasada-5266f6.netlify.app/)
+Description: Restaurant menu card is a beautifully crafted web application developed using HTML, CSS, and JavaScript. With its simple and user-friendly design, customers can easily browse through our extensive menu offerings. The menu card is fully responsive, ensuring seamless navigation on various devices, including desktops, tablets, and smartphones. The thoughtfully designed layout and intuitive interface make it effortless for users to explore different categories
 
 ### <h5>Project 3</h5>: [Intro-section](https://vercel.com/sahilrw/intro-section-with-dropdown-navigatio)
 Description: The website is a fully responsive site created using HTML, CSS, and JavaScript. It showcases an appealing navbar design and incorporates the usage of Flexbox and CSS Grid. With a focus on hover effects, this project offers a great opportunity for practicing interactive user experiences. Explore the site to see how it seamlessly combines these technologies to create an engaging and visually appealing web page.
