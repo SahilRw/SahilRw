@@ -23,13 +23,15 @@ Description: Restaurant menu card is a beautifully crafted web application devel
 Description: The website is a fully responsive site created using HTML, CSS, and JavaScript. It showcases an appealing navbar design and incorporates the usage of Flexbox and CSS Grid. With a focus on hover effects, this project offers a great opportunity for practicing interactive user experiences. Explore the site to see how it seamlessly combines these technologies to create an engaging and visually appealing web page.
 
 ## <h3>Education</h3>
-- Self-taught web developer with a strong focus on continuous learning and improvement.
+- As a passionate and self-motivated individual, I have embarked on a self-taught journey to master the art of web development. With a voracious appetite for learning, I have explored various online resources, tutorials, and hands-on projects to gain practical experience in the field. 
+- I believe in the power of continuous learning and staying up-to-date with the latest web technologies and trends. Through self-guided study, I have honed my skills in HTML, CSS, JavaScript, and front-end frameworks like React
+- My journey as a self-taught web developer is a testament to my dedication, curiosity, and hunger for knowledge. I am passionate about expanding my skill set, embracing new challenges, and pushing the boundaries of what I can achieve in the ever-evolving world of web development.
 
 ## <h3>Contact</h3>
 - Portfolio: [SahilR-portfolio](https://portfolio-sahilrw.vercel.app/)
 - Email: [@sahilrw05](mailto:sahilrw05@gmail.com)
 - Twitter: [@_sahil_r](https://twitter.com/_sahil_r)
+- LinkedIn: [@sahilrw](https://www.linkedin.com/in/sahilrw/)
 
-<p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations</p>
-
+<p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations<p>
 <p>Thank you for visiting my GitHub profile!</p>
