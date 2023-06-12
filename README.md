@@ -28,7 +28,5 @@ Description: The website is a fully responsive site created using HTML, CSS, and
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilrw&show_icons=true&locale=en&layout=compact" alt="sahilrw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilrw&show_icons=true&locale=en" alt="sahilrw" /></p>
-
 <p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations<p>
 <p>Thank you for visiting my GitHub profile!</p>
