@@ -26,7 +26,7 @@ Description: The website is a fully responsive site created using HTML, CSS, and
 - I believe in the power of continuous learning and staying up-to-date with the latest web technologies and trends. Through self-guided study, I have honed my skills in HTML, CSS, JavaScript, and front-end frameworks like React
 - My journey as a self-taught web developer is a testament to my dedication, curiosity, and hunger for knowledge. I am passionate about expanding my skill set, embracing new challenges, and pushing the boundaries of what I can achieve in the ever-evolving world of web development.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilrw&show_icons=true&locale=en&layout=compact" alt="sahilrw" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilrw&show_icons=true&locale=en&layout=compact" alt="sahilrw" /></p>
 
 <p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations<p>
 <p>Thank you for visiting my GitHub profile!</p>
