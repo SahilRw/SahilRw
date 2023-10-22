@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Sahil</h1>
+<h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilrw&label=Profile%20views&color=0e75b6&style=flat" alt="sahilrw" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sahilrw.vercel.app/](https://portfolio-sahilrw.vercel.app/)
+- 👨‍💻 Checkout my projects here [https://portfolio-sahilrw.vercel.app/](https://portfolio-sahilrw.vercel.app/)
 
-- 💬 Ask me about **JavaScript and Python**
+- 💬 Ask me about **JavaScript React and Python**
 
 - 📫 How to reach me **sahilrw05@gmail.com**
 
@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/sahilrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilrw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Libraries and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilrw&show_icons=true&locale=en&layout=compact" alt="sahilrw" /></p>
@@ -39,5 +39,5 @@ Description: The website is a fully responsive site created using HTML, CSS, and
 - I believe in the power of continuous learning and staying up-to-date with the latest web technologies and trends. Through self-guided study, I have honed my skills in HTML, CSS, JavaScript, and front-end frameworks like React
 - My journey as a self-taught web developer is a testament to my dedication, curiosity, and hunger for knowledge. I am passionate about expanding my skill set, embracing new challenges, and pushing the boundaries of what I can achieve in the ever-evolving world of web development.
 
-<p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborations<p>
+<p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborationscollaborations. <p>
 <p>Thank you for visiting my GitHub profile!</p>
