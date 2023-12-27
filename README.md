@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Sahil</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilrw&label=Profile%20views&color=0e75b6&style=flat" alt="sahilrw" /> </p>
 
 - 👨‍💻 Checkout my projects here [https://portfolio-sahilrw.vercel.app/](https://portfolio-sahilrw.vercel.app/)
 
-- 💬 Ask me about **JavaScript React and Python**
+- 💬 Ask me about **JavaScript TypeScript React and Python**
 
-- 📫 How to reach me **sahilrw05@gmail.com**
+- 📫 How to reach me **sahilwankhade025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,15 +26,13 @@
 
 ## <h3 align='left'>Projects</h3>
 ### <h5>Project 1</h5>: [Dialog-ai](https://dialog-ai.vercel.app/)
-Description: This project is a freelance project that involved recreating a website using React and Tailwind CSS. Throughout the development process, the focus was on enhancing skills related to state management using `useState` in React and working with React components. Importing and displaying images in React files was also a part of the learning experience. Additionally, the project provided an opportunity to practice using Flexbox for creating a responsive website layout. By successfully completing this project, valuable knowledge and hands-on experience were gained in React, Tailwind CSS, state management, componentization, image handling, and responsive design techniques. Explore the website to see the outcome of these efforts.
+Description: Developed a responsive user interface utilizing Tailwind CSS, coupled with Server-Side Rendering (SSR) to enhance performance. Facilitated interactive experiences by seamlessly integrating events and states, enriching the overall user interface. Engineered clean and optimized code structure using components, ensuring a seamless frontend experience.
 
-### <h5>Project 2</h5>: [Restaurant Menu](https://chimerical-malasada-5266f6.netlify.app/)
-Description: Restaurant menu card is a beautifully crafted web application developed using HTML, CSS, and JavaScript. With its simple and user-friendly design, customers can easily browse through our extensive menu offerings. The menu card is fully responsive, ensuring seamless navigation on various devices, including desktops, tablets, and smartphones. The thoughtfully designed layout and intuitive interface make it effortless for users to explore different categories
+### <h5>Project 2</h5>: [HomeHelper AI](https://homehelper.ai/)
+Description: Played a crucial part in advancing the frontend development of 'HomeHelper AI,' a multipage project built using Next.js and Tailwind CSS. Led the effort to bring dynamic features to life, aligning with the design envisioned in Figma to guarantee a smooth and captivating user experience. Demonstrated strong communication skills while effectively collaborating within a team to achieve project objectives. Committed to modern technology practices, maintained clean, optimal code, and actively participated in the project's GitHub repository.
 
 ## <h3 align='left'>Education</h3>
-- As a passionate and self-motivated individual, I have embarked on a self-taught journey to master the art of web development. With a voracious appetite for learning, I have explored various online resources, tutorials, and hands-on projects to gain practical experience in the field. 
-- I believe in the power of continuous learning and staying up-to-date with the latest web technologies and trends. Through self-guided study, I have honed my skills in HTML, CSS, JavaScript, and front-end frameworks like React
-- My journey as a self-taught web developer is a testament to my dedication, curiosity, and hunger for knowledge. I am passionate about expanding my skill set, embracing new challenges, and pushing the boundaries of what I can achieve in the ever-evolving world of web development.
+- Currently pursuing a Bachelor of Technology degree with a major in the Information Technology department.
 
-<p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities and collaborationscollaborations. <p>
+<p>Let's connect and collaborate on exciting projects! Feel free to reach out via email or connect with me on Twitter. I'm always open to new opportunities<p>
 <p>Thank you for visiting my GitHub profile!</p>
